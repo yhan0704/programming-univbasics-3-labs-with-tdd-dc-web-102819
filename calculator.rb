@@ -5,3 +5,5 @@ second_number = 1;
 sum = first_number + second_number;
 
 subtracting = first_number - second_number;
+
+result = subtracting;
