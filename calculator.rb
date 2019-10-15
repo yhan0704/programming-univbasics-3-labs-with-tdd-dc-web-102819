@@ -4,5 +4,5 @@ second_number = 1;
 
 sum = first_number + second_number;
 
-result = first_number - second_number;
+difference = first_number - second_number;
 
